@@ -82,6 +82,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ramlogo.ico" />
+    <None Include="Resources\honeybomb-removebg-preview.png" />
+    <None Include="Resources\RotatedFlySwatter-removebg-preview.png" />
+    <None Include="Resources\BetterBumblebee.png" />
+    <None Include="Resources\golf-ball2-png.png" />
+    <None Include="Resources\Golf-icon.jpg" />
+    <None Include="Resources\Martin-Berube-Sport-Golf.ico" />
     <None Include="Resources\collision.wav" />
     <None Include="Resources\score.wav" />
     <None Include="Resources\wall bounce.wav" />
